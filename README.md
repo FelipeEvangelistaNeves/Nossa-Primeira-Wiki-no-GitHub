@@ -11,7 +11,7 @@ bash
 ls -l
 
 
----
+
 
 ## 2. cd
 
@@ -24,7 +24,7 @@ bash
 cd Documentos
 
 
----
+
 
 ## 3. pwd
 
@@ -37,7 +37,7 @@ bash
 pwd
 
 
----
+
 
 ## 4. mkdir
 
@@ -50,7 +50,7 @@ bash
 mkdir projetos
 
 
----
+
 
 ## 5. rmdir
 
@@ -63,7 +63,7 @@ bash
 rmdir projetos
 
 
----
+
 
 ## 6. touch
 
@@ -76,7 +76,7 @@ bash
 touch arquivo.txt
 
 
----
+
 
 ## 7. cp
 
@@ -89,7 +89,7 @@ bash
 cp arquivo.txt copia.txt
 
 
----
+
 
 ## 8. mv
 
@@ -102,7 +102,7 @@ bash
 mv arquivo.txt novo_nome.txt
 
 
----
+
 
 ## 9. rm
 
@@ -115,7 +115,7 @@ bash
 rm arquivo.txt
 
 
----
+
 
 ## 10. find
 
@@ -128,7 +128,7 @@ bash
 find . -name "arquivo.txt"
 
 
----
+
 
 ## 11. cat
 
@@ -141,7 +141,7 @@ bash
 cat arquivo.txt
 
 
----
+
 
 ## 12. less
 
@@ -154,7 +154,7 @@ bash
 less arquivo.txt
 
 
----
+
 
 ## 13. head
 
@@ -167,7 +167,7 @@ bash
 head arquivo.txt
 
 
----
+
 
 ## 14. tail
 
@@ -180,7 +180,7 @@ bash
 tail arquivo.txt
 
 
----
+
 
 ## 15. nano
 
@@ -193,7 +193,7 @@ bash
 nano arquivo.txt
 
 
----
+
 
 ## 16. grep
 
@@ -206,7 +206,7 @@ bash
 grep "erro" arquivo.txt
 
 
----
+
 
 ## 17. wc
 
@@ -219,7 +219,7 @@ bash
 wc arquivo.txt
 
 
----
+
 
 ## 18. sort
 
@@ -232,7 +232,7 @@ bash
 sort lista.txt
 
 
----
+
 
 ## 19. uniq
 
@@ -245,7 +245,7 @@ bash
 uniq lista.txt
 
 
----
+
 
 ## 20. top
 
@@ -258,7 +258,7 @@ bash
 top
 
 
----
+
 
 ## 21. htop
 
@@ -271,7 +271,7 @@ bash
 htop
 
 
----
+
 
 ## 22. ps
 
@@ -284,7 +284,7 @@ bash
 ps aux
 
 
----
+
 
 ## 23. kill
 
@@ -297,7 +297,7 @@ bash
 kill 1234
 
 
----
+
 
 ## 24. chmod
 
@@ -310,7 +310,7 @@ bash
 chmod 755 arquivo.sh
 
 
----
+
 
 ## 25. chown
 
@@ -323,7 +323,7 @@ bash
 chown usuario arquivo.txt
 
 
----
+
 
 ## 26. ping
 
@@ -336,7 +336,7 @@ bash
 ping google.com
 
 
----
+
 
 ## 27. ifconfig
 
@@ -349,7 +349,7 @@ bash
 ifconfig
 
 
----
+
 
 ## 28. wget
 
@@ -362,7 +362,7 @@ bash
 wget https://site.com/arquivo.zip
 
 
----
+
 
 ## 29. curl
 
@@ -375,7 +375,7 @@ bash
 curl https://api.site.com
 
 
----
+
 
 ## 30. man
 
