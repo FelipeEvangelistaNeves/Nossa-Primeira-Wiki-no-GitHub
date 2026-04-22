@@ -4,7 +4,7 @@
 função:  
 Lista os arquivos e pastas dentro de um diretório.
 Exemplo:
-```bash
+bash
 ls -l
 
 2. cd
