@@ -1,5 +1,5 @@
 # Comandos Básicos do Linux
-#*
+#**
 FELIPE EVANGELISTA NEVES 
 
 RGM:11261104275 
@@ -15,7 +15,7 @@ RGM:11261102911
 SISTEMAS DE INFORMAÇÃO - MATUTÍNO 
 
 Lista de exercícios 
-*
+**
 ## 1. ls
 
 Função:
