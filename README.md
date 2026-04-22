@@ -1,20 +1,19 @@
 # Nossa-Primeira-Wiki-no-GitHub
-## 📂 1. ls
 
-*Para que serve:*  
+1. ls
+função:  
 Lista os arquivos e pastas dentro de um diretório.
-
-*Exemplo:*
+Exemplo:
 ```bash
 ls -l
-📂 2. cd
 
-Para que serve:
+2. cd
+função:
 Permite mudar de pasta (diretório).
 
 Exemplo:
-
 cd Documentos
+
 📂 3. pwd
 
 Para que serve:
