@@ -13,7 +13,7 @@
 
 ### **SISTEMAS DE INFORMAÇÃO - MATUTÍNO** 
 
-# Lista de exercícios 
+
 
 
 ## 1. ls
