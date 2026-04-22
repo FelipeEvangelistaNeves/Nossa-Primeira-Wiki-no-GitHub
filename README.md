@@ -13,9 +13,9 @@
 
 ## **SISTEMAS DE INFORMAÇÃO - MATUTÍNO** 
 
-#Lista de exercícios 
+# Lista de exercícios 
 
-#
+
 ## 1. ls
 
 Função:
