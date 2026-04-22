@@ -38,7 +38,7 @@ Remove uma pasta vazia.
 Exemplo:
 
 rmdir projetos
-📂 6. touch
+**📂 6. touch**
 
 Para que serve:
 Cria um arquivo vazio.
