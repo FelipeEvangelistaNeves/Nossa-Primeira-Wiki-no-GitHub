@@ -1,5 +1,21 @@
 # Comandos Básicos do Linux
+#*
+FELIPE EVANGELISTA NEVES 
 
+RGM:11261104275 
+
+SISTEMAS DE INFORMAÇÃO - MATUTÍNO 
+
+ 
+
+GUSTAVO SEIJI ESTEVAM 
+
+RGM:11261102911 
+
+SISTEMAS DE INFORMAÇÃO - MATUTÍNO 
+
+Lista de exercícios 
+*
 ## 1. ls
 
 Função:
