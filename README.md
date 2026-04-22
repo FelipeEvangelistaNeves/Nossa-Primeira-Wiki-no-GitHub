@@ -1,4 +1,120 @@
 # Nossa-Primeira-Wiki-no-GitHub
+## 📂 1. ls
+
+*Para que serve:*  
+Lista os arquivos e pastas dentro de um diretório.
+
+*Exemplo:*
+```bash
+ls -l
+📂 2. cd
+
+Para que serve:
+Permite mudar de pasta (diretório).
+
+Exemplo:
+
+cd Documentos
+📂 3. pwd
+
+Para que serve:
+Mostra o caminho completo da pasta atual.
+
+Exemplo:
+
+pwd
+📂 4. mkdir
+
+Para que serve:
+Cria uma nova pasta.
+
+Exemplo:
+
+mkdir projetos
+📂 5. rmdir
+
+Para que serve:
+Remove uma pasta vazia.
+
+Exemplo:
+
+rmdir projetos
+📂 6. touch
+
+Para que serve:
+Cria um arquivo vazio.
+
+Exemplo:
+
+touch arquivo.txt
+📂 7. cp
+
+Para que serve:
+Copia arquivos ou pastas.
+
+Exemplo:
+
+cp arquivo.txt copia.txt
+📂 8. mv
+
+Para que serve:
+Move ou renomeia arquivos e pastas.
+
+Exemplo:
+
+mv arquivo.txt novo_nome.txt
+📂 9. rm
+
+Para que serve:
+Remove arquivos ou pastas.
+
+Exemplo:
+
+rm arquivo.txt
+📂 10. find
+
+Para que serve:
+Procura arquivos dentro de diretórios.
+
+Exemplo:
+
+find . -name "arquivo.txt"
+📄 11. cat
+
+Para que serve:
+Mostra o conteúdo de um arquivo.
+
+Exemplo:
+
+cat arquivo.txt
+📄 12. less
+
+Para que serve:
+Permite visualizar arquivos grandes página por página.
+
+Exemplo:
+
+less arquivo.txt
+📄 13. head
+
+Para que serve:
+Mostra as primeiras linhas de um arquivo.
+
+Exemplo:
+
+head arquivo.txt
+📄 14. tail
+
+Para que serve:
+Mostra as últimas linhas de um arquivo.
+
+Exemplo:
+
+tail arquivo.txt
+📄 15. nano
+
+Para que serve:
+Editor de texto simples no terminal.
 
 🔍 16. grep
 
